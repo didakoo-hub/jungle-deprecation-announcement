@@ -1,0 +1,8 @@
+{
+  "type": "deprecation",
+  "data": {
+    "minVersion": 2,
+    "notBefore": 1791965578
+  },
+  "signature": "0x54ae0432c55ef6c7b7a010a3b6e562532b57a5ef13f8ab4c5fd69ae4c9b336e968d66b062c0c3fa0c15a194cdd5939e587d41df1df874c671795ed0b0f22b8811c"
+}
