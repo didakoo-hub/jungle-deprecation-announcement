@@ -1,8 +1,8 @@
 {
   "type": "deprecation",
   "data": {
-    "minVersion": 3,
-    "notBefore": 1792051603
+    "minVersion": 4,
+    "notBefore": 1793098414
   },
-  "signature": "0x39fb8f3235a8ec59cdbeac78a870841019aef793dd2ba7fb50b914e308d55e186b4dbee5f5bffa5b83a73fa25f11adfc010a7cdf0f447cab2d63bc1591e048071c"
+  "signature": "0x2a52de755ff70dfe6e9e5d630c283da15bab25bdc77e2be68fc63fb2c5d5151d3f42b2395d30ed0b988fb08eda80fe6b490426368cbb4e911b829327c5cea09a1c"
 }
